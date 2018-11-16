@@ -1,0 +1,30 @@
+{
+  "name": "lasc-contracts",
+  "version": "0.0.1",
+  "description": "Contracts for the LA Software Craftsmanship community",
+  "main": "truffle.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lasmartcontract/lasc-contracts.git"
+  },
+  "keywords": [
+    "solidity",
+    "ethereum",
+    "smart contracts"
+  ],
+  "author": "Michael Rice <me@michaelrice.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mrice/lasc-contracts/issues"
+  },
+  "homepage": "https://github.com/mrice/lasc-contracts#readme",
+  "dependencies": {
+    "openzeppelin-solidity": "^2.0.0"
+  }
+}
